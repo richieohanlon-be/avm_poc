@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"asp","Source":"registry.terraform.io/Azure/avm-res-web-serverfarm/azurerm","Version":"0.7.0","Dir":".terraform/modules/asp"},{"Key":"linux_webapp","Source":"registry.terraform.io/Azure/avm-res-web-site/azurerm","Version":"0.18.0","Dir":".terraform/modules/linux_webapp"}]}
